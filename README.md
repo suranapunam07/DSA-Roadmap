@@ -22,4 +22,9 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
