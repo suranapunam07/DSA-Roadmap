@@ -2,6 +2,7 @@ class Solution {
 public:
     int majorityElement(vector<int>& nums) 
     {
+     //Moore's Voting Algorithm with O(n) T.C
      int majority = 0;
      int count = 0;
 
