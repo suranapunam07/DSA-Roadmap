@@ -8,6 +8,7 @@
 | [0169-majority-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0724-find-pivot-index) |
@@ -18,6 +19,7 @@
 | [0169-majority-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -41,12 +43,14 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -55,4 +59,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
