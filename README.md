@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0189-rotate-array) |
@@ -65,6 +66,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
 ## Bit Manipulation
