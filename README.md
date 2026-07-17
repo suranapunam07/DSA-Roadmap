@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0169-majority-element) |
@@ -58,6 +59,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -66,6 +68,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
