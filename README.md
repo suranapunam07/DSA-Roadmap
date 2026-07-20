@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0242-valid-anagram) |
 | [1768-merge-strings-alternately](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1768-merge-strings-alternately) |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0036-valid-sudoku) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
