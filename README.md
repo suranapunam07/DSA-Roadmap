@@ -56,6 +56,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
 ## Sorting
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
