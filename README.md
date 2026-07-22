@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0036-valid-sudoku) |
+| [0057-insert-interval](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0169-majority-element) |
