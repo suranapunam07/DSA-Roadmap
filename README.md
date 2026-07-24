@@ -21,6 +21,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0724-find-pivot-index) |
+| [3866-first-unique-even-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0560-subarray-sum-equals-k) |
+| [3866-first-unique-even-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0169-majority-element) |
+| [3866-first-unique-even-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3866-first-unique-even-element) |
 ## Binary Search
 |  |
 | ------- |
