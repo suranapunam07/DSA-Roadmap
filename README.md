@@ -24,6 +24,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0875-koko-eating-bananas) |
 | [3866-first-unique-even-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
@@ -99,6 +100,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
+| [0875-koko-eating-bananas](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
