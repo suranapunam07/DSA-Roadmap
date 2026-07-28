@@ -2,31 +2,39 @@ class Solution {
 public:
     string convert(string s, int numRows) {
 
-        if (numRows == 1 || numRows >= s.size())
+        if (numRows == 1 || numRows >= s.length()) {
             return s;
+        }
 
         vector<string> rows(numRows);
 
-        int currRow = 0;
-        bool goingDown = false;
+        int currentRow = 0;
+        bool goingDown = true;
 
-        for (char c : s) {
+        for (int i = 0; i < s.length(); i++) {
 
-            rows[currRow] += c;
+            rows[currentRow] += s[i];
 
-            if (currRow == 0 || currRow == numRows - 1)
-                goingDown = !goingDown;
+            if (currentRow == numRows - 1) {
+                goingDown = false;
+            }
+            else if (currentRow == 0) {
+                goingDown = true;
+            }
 
-            if (goingDown)
-                currRow++;
-            else
-                currRow--;
+            if (goingDown) {
+                currentRow++;
+            }
+            else {
+                currentRow--;
+            }
         }
 
         string ans = "";
 
-        for (int i = 0; i < numRows; i++)
+        for (int i = 0; i < numRows; i++) {
             ans += rows[i];
+        }
 
         return ans;
     }
