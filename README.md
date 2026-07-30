@@ -33,6 +33,7 @@
 | [0001-two-sum](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0036-valid-sudoku) |
+| [0141-linked-list-cycle](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0242-valid-anagram) |
@@ -55,6 +56,7 @@
 | [0027-remove-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0283-move-zeroes) |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
