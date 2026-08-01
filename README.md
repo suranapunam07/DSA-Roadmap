@@ -141,4 +141,8 @@
 | [0203-remove-linked-list-elements](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0876-middle-of-the-linked-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
