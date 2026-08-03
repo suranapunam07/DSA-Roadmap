@@ -26,6 +26,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0875-koko-eating-bananas) |
+| [1980-find-unique-binary-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1980-find-unique-binary-string) |
 | [3866-first-unique-even-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@
 | [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0560-subarray-sum-equals-k) |
+| [1980-find-unique-binary-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1980-find-unique-binary-string) |
 | [3866-first-unique-even-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
 |  |
@@ -75,6 +77,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0242-valid-anagram) |
 | [1768-merge-strings-alternately](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1768-merge-strings-alternately) |
+| [1980-find-unique-binary-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1980-find-unique-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -151,4 +154,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0175-combine-two-tables) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
