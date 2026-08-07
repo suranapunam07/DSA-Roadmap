@@ -59,6 +59,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0148-sort-list) |
@@ -149,6 +150,7 @@
 | [0002-add-two-numbers](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0160-intersection-of-two-linked-lists) |
