@@ -8,11 +8,46 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
+
+class Solution 
+{
 public:
     ListNode* partition(ListNode* head, int x) 
     {
-        vector<int> small, large;
+
+        ListNode* smallDummy = new ListNode(0);
+        ListNode* largeDummy = new ListNode(0);
+
+        ListNode* small = smallDummy;
+        ListNode* large = largeDummy;
+
+        while(head)
+        {
+
+            if(head->val < x)
+            {
+                small->next = head;
+                small = small->next;
+            }
+            else
+            {
+                large->next = head;
+                large = large->next;
+            }
+
+            head = head->next;
+        }
+
+        large->next = nullptr;
+
+        small->next = largeDummy->next;
+
+        return smallDummy->next;
+    }
+};
+
+/*
+  vector<int> small, large;
         ListNode* temp = head;
 
         while(temp)
@@ -40,5 +75,4 @@ public:
             temp = temp->next;
         }
         return head;
-    }
-};
+*/
