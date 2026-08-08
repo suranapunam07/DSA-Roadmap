@@ -177,4 +177,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0234-palindrome-linked-list) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
