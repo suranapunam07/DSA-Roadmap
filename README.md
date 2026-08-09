@@ -26,6 +26,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0875-koko-eating-bananas) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1980-find-unique-binary-string) |
 | [3866-first-unique-even-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3866-first-unique-even-element) |
 ## Hash Table
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0036-valid-sudoku) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Sliding Window
 |  |
 | ------- |
