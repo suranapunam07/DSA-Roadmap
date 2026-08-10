@@ -36,6 +36,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0217-contains-duplicate) |
@@ -64,6 +65,7 @@
 | [0075-sort-colors](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0160-intersection-of-two-linked-lists) |
@@ -156,6 +158,7 @@
 | [0061-rotate-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0203-remove-linked-list-elements) |
@@ -187,4 +190,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
