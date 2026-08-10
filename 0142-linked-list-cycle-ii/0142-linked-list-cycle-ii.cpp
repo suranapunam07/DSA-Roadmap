@@ -33,3 +33,27 @@ public:
         return NULL;    
     }
 };
+
+/*
+class Solution {
+public:
+    ListNode *detectCycle(ListNode *head) {
+        unordered_set<ListNode*> visited;
+
+        ListNode* curr = head;
+
+        while (curr != NULL) {
+            // Node already visited → cycle starts here
+            if (visited.find(curr) != visited.end()) {
+                return curr;
+            }
+
+            visited.insert(curr);
+            curr = curr->next;
+        }
+
+        // No cycle
+        return NULL;
+    }
+};
+*/
