@@ -35,6 +35,7 @@
 | [0001-two-sum](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0036-valid-sudoku) |
+| [0138-copy-list-with-random-pointer](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0160-intersection-of-two-linked-lists) |
@@ -158,6 +159,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0148-sort-list) |
