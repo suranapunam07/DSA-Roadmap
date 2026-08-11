@@ -12,7 +12,43 @@ class Solution {
 public:
     int pairSum(ListNode* head) 
     {
-        vector<int> arr;
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast != NULL && fast->next != NULL)
+        {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        ListNode* prev = NULL;
+        ListNode* curr = slow;
+
+        while(curr != NULL)
+        {
+            ListNode* newnode = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = newnode;
+        }
+         
+        int maxSum = 0;
+
+        ListNode* first = head;
+        ListNode* second = prev;
+
+        while(second != NULL)
+        {
+            int sum = first->val + second->val;
+            maxSum = max(maxSum, sum);
+
+            first = first->next;
+            second = second->next;
+        }
+        return maxSum;
+    }
+};
+/*
+ vector<int> arr;
 
         ListNode* temp = head;
 
@@ -31,5 +67,4 @@ public:
             maxSum = max(maxSum, sum);
         }
         return maxSum;
-    }
-};
+*/
