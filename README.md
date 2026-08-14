@@ -176,6 +176,7 @@
 | [0328-odd-even-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Database
 |  |
 | ------- |
@@ -206,4 +207,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
