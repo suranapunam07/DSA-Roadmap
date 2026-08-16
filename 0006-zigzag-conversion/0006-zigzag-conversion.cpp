@@ -4,7 +4,8 @@ public:
     {
        // T.C=O(n) S.C=O(1)
 
-        if (numRows == 1 || numRows >= s.length()) {
+        if (numRows == 1 || numRows >= s.length())
+        {
             return s;
         }
 
