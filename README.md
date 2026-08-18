@@ -85,6 +85,7 @@
 | [0005-longest-palindromic-substring](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0242-valid-anagram) |
 | [1768-merge-strings-alternately](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1768-merge-strings-alternately) |
@@ -192,6 +193,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Manacher
@@ -211,4 +213,8 @@
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2181-merge-nodes-in-between-zeros) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
