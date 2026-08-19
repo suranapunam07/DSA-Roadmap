@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0172-factorial-trailing-zeroes) |
