@@ -29,6 +29,7 @@
 | [0875-koko-eating-bananas](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0875-koko-eating-bananas) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1980-find-unique-binary-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3866-first-unique-even-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bracket Sequences
 |  |
 | ------- |
