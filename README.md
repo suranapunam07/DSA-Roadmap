@@ -195,6 +195,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Manacher
@@ -218,4 +219,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
