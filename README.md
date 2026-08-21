@@ -30,6 +30,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1980-find-unique-binary-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3866-first-unique-even-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
 |  |
 | ------- |
@@ -130,10 +132,12 @@
 | [0035-search-insert-position](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0875-koko-eating-bananas) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Matrix
 |  |
 | ------- |
@@ -225,4 +229,12 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0155-min-stack) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
