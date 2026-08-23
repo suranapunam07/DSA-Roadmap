@@ -93,6 +93,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0242-valid-anagram) |
 | [1768-merge-strings-alternately](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1980-find-unique-binary-string) |
 ## Math
 |  |
@@ -104,6 +105,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0268-missing-number) |
+| [1927-sum-game](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
@@ -245,4 +248,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0496-next-greater-element-i) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
