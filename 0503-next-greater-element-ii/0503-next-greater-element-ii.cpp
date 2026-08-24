@@ -6,17 +6,23 @@ public:
 
         vector<int> ans(n, -1);
 
-        for (int i = 0; i < n; i++) {
+        stack<int> st;
 
-            for (int j = 1; j < n; j++) {
+        for (int i = 2 * n - 1; i >= 0; i--) {
 
-                int index = (i + j) % n;
+            int current = nums[i % n];
 
-                if (nums[index] > nums[i]) {
-                    ans[i] = nums[index];
-                    break;
+            while (!st.empty() && st.top() <= current) {
+                st.pop();
+            }
+
+            if (i < n) {
+                if (!st.empty()) {
+                    ans[i] = st.top();
                 }
             }
+
+            st.push(current);
         }
 
         return ans;
