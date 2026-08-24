@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0875-koko-eating-bananas) |
@@ -208,6 +209,7 @@
 | [0155-min-stack](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0503-next-greater-element-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Manacher
 |  |
@@ -248,6 +250,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0503-next-greater-element-ii) |
 ## Game Theory
 |  |
 | ------- |
