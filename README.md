@@ -33,6 +33,7 @@
 | [1980-find-unique-binary-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1980-find-unique-binary-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
@@ -52,6 +53,7 @@
 | [0496-next-greater-element-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0560-subarray-sum-equals-k) |
 | [1980-find-unique-binary-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1980-find-unique-binary-string) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
 |  |
