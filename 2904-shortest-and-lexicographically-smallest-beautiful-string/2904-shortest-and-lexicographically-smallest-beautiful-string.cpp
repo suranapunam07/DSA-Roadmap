@@ -1,38 +1,46 @@
 class Solution {
 public:
     string shortestBeautifulSubstring(string s, int k) {
+        int n = s.size();
 
-        vector<int> ones;
-
-        // Store positions of all 1s
-        for (int i = 0; i < s.size(); i++) {
-            if (s[i] == '1')
-                ones.push_back(i);
-        }
-
-        // Not enough 1s
-        if (ones.size() < k)
-            return "";
+        int left = 0;
+        int ones = 0;
 
         string ans = "";
-        int minLength = INT_MAX;
 
-        // Take every group of k consecutive 1s
-        for (int i = k - 1; i < ones.size(); i++) {
+        for (int right = 0; right < n; right++) {
 
-            int start = ones[i - k + 1];
-            int end = ones[i];
+            // Add current character
+            if (s[right] == '1')
+                ones++;
 
-            int length = end - start + 1;
+            // More than k ones
+            while (ones > k) {
+                if (s[left] == '1')
+                    ones--;
 
-            string temp = s.substr(start, length);
-
-            if (length < minLength) {
-                minLength = length;
-                ans = temp;
+                left++;
             }
-            else if (length == minLength && temp < ans) {
-                ans = temp;
+
+            // Exactly k ones
+            if (ones == k) {
+
+                // Remove unnecessary zeros from left
+                while (s[left] == '0') {
+                    left++;
+                }
+
+                string temp = s.substr(left, right - left + 1);
+
+                // Shorter is better
+                if (ans == "" || temp.length() < ans.length()) {
+                    ans = temp;
+                }
+
+                // Same length -> lexicographically smaller
+                else if (temp.length() == ans.length() && temp < ans) {
+                    ans = temp;
+                }
             }
         }
 
