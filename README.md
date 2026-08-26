@@ -98,6 +98,7 @@
 | [1768-merge-strings-alternately](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1980-find-unique-binary-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
 | ------- |
