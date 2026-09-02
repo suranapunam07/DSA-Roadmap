@@ -84,6 +84,7 @@
 | [0189-rotate-array](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -98,6 +99,7 @@
 | [0020-valid-parentheses](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1980-find-unique-binary-string) |
@@ -219,6 +221,7 @@
 | [0234-palindrome-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0503-next-greater-element-ii) |
+| [0844-backspace-string-compare](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Manacher
 |  |
@@ -237,6 +240,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0844-backspace-string-compare) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bracket Sequences
