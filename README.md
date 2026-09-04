@@ -37,6 +37,7 @@
 | [3866-first-unique-even-element](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0238-product-of-array-except-self](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0724-find-pivot-index) |
+| [3903-smallest-stable-index-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
