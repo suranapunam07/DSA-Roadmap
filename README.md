@@ -29,6 +29,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0875-koko-eating-bananas) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1980-find-unique-binary-string) |
@@ -231,6 +232,7 @@
 | [0496-next-greater-element-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Manacher
@@ -275,6 +277,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0739-daily-temperatures) |
 ## Game Theory
 |  |
 | ------- |
