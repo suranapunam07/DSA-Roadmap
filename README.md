@@ -234,6 +234,7 @@
 | [0682-baseball-game](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0901-online-stock-span) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/suranapunam07/DSA-Roadmap/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Manacher
 |  |
@@ -264,6 +265,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0901-online-stock-span) |
 ## Combinatorics
 |  |
 | ------- |
@@ -278,8 +280,13 @@
 | [0496-next-greater-element-i](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0901-online-stock-span) |
 ## Game Theory
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/suranapunam07/DSA-Roadmap/tree/master/1927-sum-game) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/suranapunam07/DSA-Roadmap/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
