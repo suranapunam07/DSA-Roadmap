@@ -1,68 +1,56 @@
-DSA Roadmap 🚀
+# DSA Journey 🚀
 
-This repository documents my journey of learning Data Structures and Algorithms (DSA) using C++.
+This repository documents my journey of learning **Data Structures and Algorithms (DSA)** using C++.
 
 I am building this roadmap step by step by learning concepts, solving problems, and improving my problem-solving skills.
 
-📌 My DSA Progress
-✅ Completed
+## 📌 My DSA Progress
 
-Arrays
+### ✅ Completed
 
-Strings
+• Arrays
+• Strings
+• Linked List
+• Stack
+• Queue
+• Searching
+• Sorting
 
-Linked List
+### 🔄 Currently Learning
 
-Stack
+→ Trees
+→ Binary Trees
+→ Binary Search Trees
+→ Tree Traversals
+→ Recursion
+→ Heap / Priority Queue
 
-Queue
+### 📚 Coming Next
 
-Searching
+○ Hashing
+○ Graphs
+○ Greedy Algorithms
+○ Backtracking
+○ Dynamic Programming
+○ Advanced Data Structures
+○ Advanced Algorithms
 
-Sorting
+## 🎯 My Goal
 
-🔄 Currently Learning
+My goal is to build a strong foundation in **DSA and problem solving** by consistently learning new concepts and solving problems.
 
-Trees
-
-Binary Trees
-
-Binary Search Trees
-
-Tree Traversals
-
-Recursion
-
-Heap / Priority Queue
-
-📚 Coming Next
-
-Hashing
-
-Graphs
-
-Greedy Algorithms
-
-Backtracking
-
-Dynamic Programming
-
-Advanced Data Structures
-
-Advanced Algorithms
-🎯 My Goal
-
-My goal is to build a strong foundation in DSA and problem solving by consistently learning new concepts and solving problems.
 I am following a gradual approach:
-Learn → Implement → Practice → Analyze → Optimize → Revise
+
+**Learn → Implement → Practice → Analyze → Optimize → Revise**
+
 This repository will be updated as I progress through my DSA journey.
 
-📈 Progress
+## 📈 Progress
 
-This roadmap is a work in progress.
-New topics and problems will be added as I continue learning.
+This roadmap is a work in progress. New topics and problems will be added as I continue learning.
 
-Currently: Learning Trees 🌳 and strengthening my problem-solving skills.
+**Currently:** Learning Trees 🌳 and strengthening my problem-solving skills.
+
 
 
 # LeetCode Topics
