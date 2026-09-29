@@ -7,35 +7,37 @@ public:
 
         for (int i = 0; i <= path.size(); i++) {
             
-            if (i < path.size() && path[i] != '/') {
+            if (i < path.size() && path[i] != '/') 
+            {
                 temp += path[i];
             }
-            else {
-                
-                if (temp == "..") {
-                    if (!st.empty()) {
+            else 
+            {
+                if (temp == "..") 
+                {
+                    if (!st.empty()) 
+                    {
                         st.pop();
                     }
                 }
-                else if (temp != "" && temp != ".") {
+                else if (temp != "" && temp != ".") 
+                {
                     st.push(temp);
                 }
-
                 temp = "";
             }
         }
-
         string result = "";
-
-        while (!st.empty()) {
+        while (!st.empty()) 
+        {
             result = "/" + st.top() + result;
             st.pop();
         }
 
-        if (result == "") {
+        if (result == "") 
+        {
             return "/";
         }
-
         return result;
     }
 };
