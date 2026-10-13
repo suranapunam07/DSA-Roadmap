@@ -12,8 +12,7 @@ public:
                 swap(nums[i], nums[j]);
                 i++;
             }
-        }
-        
+        }  
         
     }
 };
