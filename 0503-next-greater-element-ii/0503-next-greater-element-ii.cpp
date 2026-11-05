@@ -8,16 +8,20 @@ public:
 
         stack<int> st;
 
-        for (int i = 2 * n - 1; i >= 0; i--) {
+        for (int i = 2 * n - 1; i >= 0; i--) 
+        {
 
             int current = nums[i % n];
 
-            while (!st.empty() && st.top() <= current) {
+            while (!st.empty() && st.top() <= current) 
+            {
                 st.pop();
             }
 
-            if (i < n) {
-                if (!st.empty()) {
+            if (i < n) 
+            {
+                if (!st.empty()) 
+                {
                     ans[i] = st.top();
                 }
             }
